@@ -1,0 +1,31 @@
+body{
+    margin:0 px;
+    padding: 0 px;
+
+    background-color:black;
+    text-align: center;
+}
+input{
+    width:90px;
+    height:50px;
+    font-size: 45px;
+    margin:5px;
+    border-radius: 5px;
+    box-shadow: 0 5px #666;
+    
+    cursor: pointer;
+
+}
+input:hover{
+    background-color:rgb(77, 137, 248)
+}
+input:active{
+    transform: translateY(3px);
+}
+h1{
+    font-size:50px;
+    font-family:fantasy;
+    font-weight: 800;
+    color:aliceblue;
+    
+}
